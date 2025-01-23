@@ -10,7 +10,6 @@ setuptools.setup(
     name="anonymizer",
     version="1.0.0",
     author="Philip Buttinger, Emanuele Viglianisi, Robert Miksch, Gustavo Puma",
-    author_email="",  # TODO: update emails
     description="Anonymizer for JSON objects",
     long_description=long_description,
     long_description_content_type="text/markdown",
